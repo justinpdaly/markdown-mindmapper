@@ -9,5 +9,5 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/markdown-mind-mapper/', // Change this to your repo name for GitHub Pages
+  base: '/markdown-mindmapper/', // Change this to your repo name for GitHub Pages
 });
